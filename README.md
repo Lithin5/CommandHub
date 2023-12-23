@@ -4,8 +4,8 @@ Welcome to CommandHub – your centralized resource for a comprehensive collecti
 
 ## Table of Contents
 - [Containers]
-  - [Docker](containers/docker/README.md)
-  - [Kubernetes](orchestration/kubernetes/README.md)
+  - [Docker](containers/docker/basic_commands.md)
+  - [Kubernetes](orchestration/kubernetes/kubectl/basic_commands.md)
 
 ## Contributing
 Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
