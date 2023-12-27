@@ -48,3 +48,18 @@ kubectl expose deployment <deployment_name> --type=NodePort --port=<port_number>
 kubectl scale deployment <deployment_name> --replicas=<number_of_replicas>
 ```
 
+### get the current context
+
+```bash
+kubectl config current-context
+```
+
+### get and set contexts
+
+```bash
+kubectl config get-contexts
+```
+```bash
+kubectl config use-contexts <name>
+```
+
